@@ -2,10 +2,10 @@
 <hr>
 Projeto se a semelha ao Airbnb com funções de reseva de locais para empresas de tecnológia.
 
-Funcionalidades
+<h2>Funcionalidades</h2>
 <hr>
-CRUD para (Cliente/Loja)
-Armazena imagem dos produtos e contas
+<li>CRUD para (Cliente/Loja)</li>
+<li>Armazena imagem dos produtos e contas</li>
 
 <h3>Ferramentas usadas</h3>
 <hr>
