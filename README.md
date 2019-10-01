@@ -1,5 +1,5 @@
 <h1>Aircnc backend</h1>
-<hr>
+
 Projeto se a semelha ao Airbnb com funções de reseva de locais para empresas de tecnológia.
 
 <h2>Funcionalidades</h2>
