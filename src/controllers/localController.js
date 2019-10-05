@@ -19,7 +19,7 @@ module.exports={
     if(!user){
       return res.status(400).json({Message:'Usuário não existe' })//Se não existir vai da erro
     };
-    
+
     const local = await locaModel.create({
       user:user_id,
       thumbnail: filename,

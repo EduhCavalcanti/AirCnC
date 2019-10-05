@@ -12,7 +12,7 @@ module.exports = {
       data
     })  
     //vai popular as informações, ou seja vai trazer todas as informações
-    //await reseva.populate('user').populate('local').execPopulate();
+    await reseva.populate('local').populate('user').execPopulate();
     
     return res.json(reseva)
   },
